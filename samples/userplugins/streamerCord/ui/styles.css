@@ -1,0 +1,27 @@
+/* VCscPanel.css */
+.vc-panel-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    border-radius: 12px;
+    background: var(--background-surface-high);
+    border: 1px solid var(--border-muted);
+    height: 40px;
+    aspect-ratio: 1;
+}
+
+.vc-icon-wrapper {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background 0.1s ease;
+    border-radius: 8px;
+}
+
+.vc-icon-wrapper:hover {
+    background: rgb(255 255 255 / 9%);
+}
