@@ -10,7 +10,7 @@ This is a... first step in what could be (and hopefully it is) your new hobby!
 Are you tired of your favorite software:
  - *just not doing enough for you?*
  - *letting you down with extremely needed features the devs feel are unnecessary but you just want a cat doing the laundry on the corner of your screen at all times?* 
- <img src="https://cdn.discordapp.com/emojis/671502377182035988.webp?size=80&animated=true" height="64px" style="position: fixed; top:0px; right:0px;"/>
+ <img src="https://cdn.discordapp.com/emojis/671502377182035988.webp?size=80&animated=true" height="64px"/> (imagine this is on the corner of your screen pls)
 
 ---
 Warning! This alters your discord install, unless using vesktop. (might not be available in all platforms)
